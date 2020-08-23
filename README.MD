@@ -12,3 +12,6 @@ Testing tools used:
 - [Loki](https://grafana.com/oss/loki/) to gather logs from docker containers (via docker-loki-driver)
 - [Grafana](https://https://grafana.com) to visualise metris and logs
 - Debian buster with 32 Gib RAM, launching everything in docker
+
+Testing run results:
+https://docs.google.com/document/d/1O72OqEooNN_wn_bkl9lVIvFnp9aWOFwQXo-OF2YeDtM/edit?usp=sharing
